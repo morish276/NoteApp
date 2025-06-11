@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/6de1c04a-c452-49b6-822b-8d32270c7a9c" height="50" />
+  <img src="https://github.com/user-attachments/assets/6de1c04a-c452-49b6-822b-8d32270c7a9c" height="40" />
   Notoid - Note Taking App
 </h1>
 
