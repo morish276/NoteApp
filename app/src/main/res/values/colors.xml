@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="moon_gold">#FFBA49</color>
+    <color name="appBackgroundColor">#FFFDE7</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#616161</color>
+    <color name="appHintColor">#9E9E9E</color>
+</resources>

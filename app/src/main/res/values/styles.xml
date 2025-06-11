@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Toolbar.Title.Custom" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:fontFamily">@font/montserrat_bold</item> <!-- Replace with your font name -->
+        <item name="android:textSize">20sp</item> <!-- Optional size -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Optional color -->
+    </style>
+</resources>
